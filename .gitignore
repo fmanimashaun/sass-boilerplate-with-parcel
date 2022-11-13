@@ -1,0 +1,6 @@
+# add .parcel-cache node_modules and dist to .gitignore
+node_modules/
+dist/
+.parcel-cache/
+
+
